@@ -1,0 +1,15 @@
+.bordure {
+	border: 2px solid black;
+}
+
+h1 {
+	background-color: aquamarine;
+}
+
+.panneau_gauche {
+	background-color: green;
+}
+
+.panneau_droit {
+	background-color: yellow;
+}
