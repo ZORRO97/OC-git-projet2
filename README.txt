@@ -47,4 +47,6 @@ Des commentaires sont rajoutés
 
 Commit 5 : version avec affichage amélioré
 
-Il s'agit du correctif pour le redimensionnement dynamique de la fenetre de droite
+Amélioration du fichier CSS et de la mise en page
+Ajout et modification de classes au bouton
+Correctif pour le redimensionnement dynamique de la fenetre de droite

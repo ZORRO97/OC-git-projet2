@@ -13,3 +13,8 @@ h1 {
 .panneau_droit {
 	background-color: yellow;
 }
+
+#latable li {
+	list-style-type: none;
+	font-size: 130%;
+}
